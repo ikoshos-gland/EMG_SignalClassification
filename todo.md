@@ -20,7 +20,7 @@
 - [ ] Flash [`src/data_collection/integrado_struct.ino`](src/data_collection/integrado_struct.ino:1) and verify BLE advertises “MyESP32”
 
 ## 2. Data Acquisition
-- [ ] From PC: `cd src/data_collection && python main.py`  
+- [ ] From PC: `cd src/data_collection && python mainö.py`  
 - [ ] Select subject and experiment in console prompt  
 - [ ] Ensure static images are present in `static/`  
 - [ ] Collect ≥30 recordings per task for each participant  
